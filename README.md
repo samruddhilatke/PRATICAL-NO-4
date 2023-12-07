@@ -52,8 +52,8 @@ class FCfs
     for(int i=0 i<n;i++)
     System.out.println(i  "  "  +BT[i]+"  "+ST[i]+ " "+FT[i]+" " + WT[i]+" " TAT[i]);
     }
-     AWT-AWT
-    AVGTAT-AVGTAT/n;
+     AWT=AWT/n;
+    AVGTAT=AVGTAT/n;
     System.out.println("**********Avg. Waiting Time: "+AWT+"\n**********");
     
     System.out.println("Avg. Tum Around Time: "+AVGTAT+"\n**********");
